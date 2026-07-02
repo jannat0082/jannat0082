@@ -1,10 +1,12 @@
 
-                            Hi there!! I'm Jannat 🌻
-
+                            
+<h3>Hi there!  I'm Jannat 🌻
+</h3>
+  
 <h3>Data Analytics • Business Intelligence • Product Management </h3>
 
 <p>
-I enjoy solving business problems through data and transforming complex datasets into actionable insights. My work combines SQL, Python, Power BI, and product thinking to analyze user behavior, measure business performance, and support data-driven decision-making.<br>I'm passionate about building end-to-end analytics projects that bridge the gap between business strategy, product management, and data analytics.
+I enjoy solving business problems through data and transforming complex datasets into actionable insights. My work combines SQL,AIML, Python, Power BI, and product thinking to analyze user behavior, measure business performance, and support data-driven decision-making.<br>I'm passionate about building end-to-end analytics projects that bridge the gap between business strategy, product management, and data analytics.
 </p>
 
 <h2>🌟 About Me</h2>
